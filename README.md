@@ -65,4 +65,4 @@ This `ExportDataJobTest` suite verifies the correctness of key functions in the 
 2. **`aggregateExportsByCountry`**: Validates aggregation of export values by country.
 3. **`categorizeCountries`**: Confirms countries are categorized as "big," "medium," or "small" based on total exports.
 
-Each test uses sample data to validate functionality, ensuring accurate and reliable data processing in the export job. You can run the tests using the **Run** button in your IDE or by executing `sbt test` in the terminal for verification.
+Each test uses sample data to validate functionality, ensuring accurate and reliable data processing in the export job. You can run the tests using the **Run** button in your IDE for verification.
