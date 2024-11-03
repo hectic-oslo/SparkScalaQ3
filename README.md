@@ -50,8 +50,9 @@ The `main` method accepts command-line arguments for `year` and `commodity`, loa
 <img width="265" alt="image" src="https://github.com/user-attachments/assets/76283de8-cf4e-438d-8fc6-155c9bea03f4">
 
 ## Sample Input
-1. Command Line arguments    - **`<Year>`**
-2. [2018-2010_export.csv](https://drive.google.com/file/d/1ev-30a1L0okJSGhlfqndSNr_QDqjS4-p/view?usp=sharing)
+1. Command Line arguments
+    - **`<Year,Commodity>`**
+3. [2018-2010_export.csv](https://drive.google.com/file/d/1ev-30a1L0okJSGhlfqndSNr_QDqjS4-p/view?usp=sharing)
 
 ## Sample Output
 
